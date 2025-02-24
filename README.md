@@ -1,5 +1,3 @@
-# my_new_project
-proyecto final de Building AI
 ## Resumen Proyecto de curso de creación de IA
 Proyecto de curso de creación de IA
 
