@@ -1,3 +1,7 @@
+## Building-AI-Idea
+Building AI Course Project
+## Project Title
+Predicción  Salarial
 ## summary
 Proyecto de curso de creación de IA
 
