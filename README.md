@@ -37,7 +37,7 @@ Las variables clave incluirán:
 - **Factores adicionales**: Experiencia laboral, nivel de educación e industria.
 
 
-![prediccion_salaria png](https://github.com/user-attachments/assets/3e76c0f3-0966-4fc2-99f2-b463faf6465e)
+![prediccion_salaria png](prediccion_salarial.png.png)
 
 ### Técnicas de IA
 
