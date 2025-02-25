@@ -65,7 +65,7 @@ Este proyecto está diseñado para proporcionar información valiosa a empleados
 Los principales beneficiarios de este proyecto son los profesionales en el campo de la tecnología, incluidos desarrolladores de software, analistas de datos, ingenieros de sistemas y otros especialistas técnicos. Estos usuarios podrán utilizar los resultados del proyecto para medir el impacto de sus horas de estudio de Python en su salario y tomar decisiones informadas sobre su desarrollo profesional. Además, el proyecto puede atraer a estudiantes y recién graduados que buscan orientaciones claras sobre cómo sus esfuerzos educativos pueden traducirse en beneficios económicos tangibles en el mercado laboral.
 
 
-## Desafíos y Limitaciones del Proyecto -
+## Desafíos y Limitaciones del Proyecto.
 
 Este proyecto presenta varias limitaciones que deben considerarse al interpretar los resultados.
 
@@ -88,7 +88,7 @@ Consentimiento informado: En caso de recopilar datos directamente de individuos,
 Fuentes abiertas y conformidad legal: Se dará preferencia a conjuntos de datos públicos que cumplan con regulaciones de privacidad, como el GDPR o la Ley de Protección de Datos Personales.
 Uso responsable de los resultados: Los resultados del modelo no deben considerarse como una garantía de aumentos salariales, sino como una herramienta de análisis para la toma de decisiones informadas. Se evitará cualquier uso indebido que pueda llevar a interpretaciones sesgadas o discriminación en procesos de contratación o promoción laboral.
 
-## Qué sigue
+## ¿Qué sigue?
 
 ### Mejoras futuras
 - Incluir variables adicionales como experiencia laboral, ubicación y nivel educativo.
