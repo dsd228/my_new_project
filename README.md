@@ -1,18 +1,17 @@
+## Project Title
+Predicción  Salarial
+
 ## Building-AI-Idea
 
 Building AI Course Project
 
-## Project Title
-
-Predicción  Salarial
-
 Proyecto de curso de creación de IA
-
-
 
 ## Resumen
 
-Este proyecto predice el incremento salarial potencial basado en horas de estudio de Python utilizando técnicas de machine learning, ofreciendo una herramienta para la toma de decisiones profesionales. 
+Este proyecto predice aumentos salariales en función de las horas de estudio de Python. Se basa en un modelo de regresión entrenado con datos simulados.  
+Proyecto de curso de creación de IA.
+ 
 
 ![prediccion_salarial png](https://github.com/user-attachments/assets/baad6459-408e-4779-8b39-8e9fab461314)
 
@@ -40,7 +39,7 @@ Las variables clave incluirán:
 - **Factores adicionales**: Experiencia laboral, nivel de educación e industria.
 
 
-
+![prediccion_salaria png](https://github.com/user-attachments/assets/3e76c0f3-0966-4fc2-99f2-b463faf6465e)
 
 ### Técnicas de IA
 
