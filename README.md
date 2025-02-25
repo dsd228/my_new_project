@@ -1,10 +1,6 @@
 ## Project Title
 Predicción  Salarial
 
-## Building-AI-Idea
-
-Building AI Course Project
-
 Proyecto de curso de creación de IA
 
 ## Resumen
