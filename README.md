@@ -1,8 +1,6 @@
-## Project Title
-
-Predicción  Salarial
-
+## Titulo del proyecto.
 Proyecto de curso de creación de IA
+Predicción Salarial
 
 ## Resumen
 
@@ -10,7 +8,7 @@ Este proyecto predice aumentos salariales en función de las horas de estudio de
 Proyecto de curso de creación de IA.
  
 
-![Descripción de la imagen](prediccion_salaria.png.png)
+![Descripción de la imagen](prediccion_salaria.png)
 
 
 ## Antecedentes
