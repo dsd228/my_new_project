@@ -10,7 +10,8 @@ Este proyecto predice aumentos salariales en función de las horas de estudio de
 Proyecto de curso de creación de IA.
  
 
-![prediccion_salarial png](https://github.com/user-attachments/assets/baad6459-408e-4779-8b39-8e9fab461314)
+![Descripción de la imagen](prediccion_salaria.png.png)
+
 
 ## Antecedentes
 
