@@ -8,8 +8,6 @@ Este proyecto predice aumentos salariales en función de las horas de estudio de
 Proyecto de curso de creación de IA.
  
 
-![Descripción de la imagen](prediccion_salaria.png.png)
-
 
 ## Antecedentes
 
@@ -35,7 +33,6 @@ Las variables clave incluirán:
 - **Factores adicionales**: Experiencia laboral, nivel de educación e industria.
 
 
-![prediccion_salaria png](prediccion_salarial.png.png)
 
 ### Técnicas de IA
 
