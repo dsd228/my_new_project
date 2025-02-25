@@ -32,6 +32,7 @@ Las variables clave incluirán:
 - **Salario inicial y posterior**: Comparación antes y después del estudio.
 - **Factores adicionales**: Experiencia laboral, nivel de educación e industria.
 
+![Descripción de la imagen](prediccion_salarial.png.png)
 
 
 ### Técnicas de IA
